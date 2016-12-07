@@ -9,7 +9,7 @@
       "/pages/Main/Main.css"
     ],
     "scripts": [
-      "https://maps.googleapis.com/maps/api/js?sensor=false&libraries=places,visualization,drawing,geometry"
+      "https://maps.googleapis.com/maps/api/js?key=AIzaSyBuEh2t6Vrf-Dc1Q6gVFSxaKKoR4rayoxA&sensor=false&libraries=places,visualization,drawing,geometry"
     ],
     "modules": [
       {
